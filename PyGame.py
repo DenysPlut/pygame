@@ -3,6 +3,7 @@ import pygame
 MAX_X = 800
 MAX_Y = 600
 game_over = False
+bg_color = (0, 0, 0)
 
 pygame.init()
 screen = pygame.display.set_mode((MAX_X, MAX_Y))
@@ -30,7 +31,7 @@ while game_over == False:
             if event.key == pygame.K_DOWN:
                 y += 20
 
-
+    screen.fill(bg_color)
     screen.blit(myimage,(x, y))
     pygame.display.flip()
 
