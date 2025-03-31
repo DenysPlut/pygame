@@ -30,6 +30,8 @@ while game_over == False:
                 y -= 20
             if event.key == pygame.K_DOWN:
                 y += 20
+        if event.type == pygame.MOUSEBUTTONDOWN:
+            x, y = event.pos
 
     screen.fill(bg_color)
     screen.blit(myimage,(x, y))
