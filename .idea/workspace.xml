@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb9eedcd-9a93-420a-a29c-db0342d2e611" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SnowFlake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snow1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snow2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snow3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyGame.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.PyGame.executor": "Run",
+    "Python.SnowFlake.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
